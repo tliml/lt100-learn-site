@@ -1,24 +1,87 @@
 [
 {
-	"uri": "/introduction/",
+	"uri": "/table/",
+	"title": "Table of Contents",
+	"tags": [],
+	"description": "",
+	"content": "TABLE OF CONTENTS CONTENTS Lorem Ipsum.\n"
+},
+{
+	"uri": "/preface/",
 	"title": "Preface",
 	"tags": [],
 	"description": "",
 	"content": "Preface Introduction to Liturgical Translation This course, LT - 100, \u0026ldquo;Introduction to Liturgical Translation,\u0026rdquo; is written primarily for those who are preparing to translate liturgical texts of the Orthodox Church into their own mother tongue. It is designed as a self-study course.\nThe aim of the course is twofold:\n That the translator should gain an in-depth understanding of the principles of liturgical translation, and That he or she be able to apply these principles effectively to achieve an accurate, meaningful, and liturgically appropriate translation.  "
 },
 {
-	"uri": "/introduction/types-of-translations/",
-	"title": "Types of Translations",
+	"uri": "/starting/",
+	"title": "Starting to Translate",
+	"tags": [],
+	"description": "",
+	"content": "STARTING TO TRANSLATE Some Chapter title Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/",
+	"title": "PART ONE",
+	"tags": [],
+	"description": "",
+	"content": "PART ONE TRANSLATION PRINCIPLES, PROBLEMS, AND PRACTICE Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/what-is-translation/",
+	"title": "1. What is Translation?",
+	"tags": [],
+	"description": "",
+	"content": "What is Translation?\n"
+},
+{
+	"uri": "/one/types-of-translation/",
+	"title": "2. Types of Translation",
 	"tags": [],
 	"description": "",
 	"content": "There are many types of translations.\nHere is a draft example.\n"
 },
 {
-	"uri": "/introduction/what-is-translation/",
-	"title": "What is Translation?",
+	"uri": "/one/kinds-of-liturgical-texts/liturgical-roles/bishops/",
+	"title": "3.1.1 Bishops",
 	"tags": [],
 	"description": "",
 	"content": "Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/kinds-of-liturgical-texts/liturgical-roles/",
+	"title": "3.1. Liturgical Roles",
+	"tags": [],
+	"description": "",
+	"content": " Bishops Priests Deacons People  "
+},
+{
+	"uri": "/one/kinds-of-liturgical-texts/",
+	"title": "3.Kinds of Liturgical Texts",
+	"tags": [],
+	"description": "",
+	"content": " Liturgical Roles Delivery of Texts Rubrics  "
+},
+{
+	"uri": "/one/kinds-of-liturgical-texts/liturgical-roles/priests/",
+	"title": "3.1.2 Priests",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/kinds-of-liturgical-texts/liturgical-roles/deacons/",
+	"title": "3.1.3 Deacons",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/kinds-of-liturgical-texts/liturgical-roles/people/",
+	"title": "3.1.4 People",
+	"tags": [],
+	"description": "",
+	"content": "1.Synaxaria\n2.Hymns\n2.1 Hymns with Multiple Musical Settings 2.2 Idiomela 2.3 Automela 3.Prayers 4.Scripture "
 },
 {
 	"uri": "/",
