@@ -29,59 +29,234 @@
 },
 {
 	"uri": "/one/what-is-translation/",
-	"title": "1. What is Translation?",
+	"title": "What is Translation?",
 	"tags": [],
 	"description": "",
-	"content": "What is Translation?\n"
+	"content": "Chapter 1 What is Translation? Lorem Ipsum.\n"
 },
 {
 	"uri": "/one/types-of-translation/",
-	"title": "2. Types of Translation",
+	"title": "Types of Translation",
 	"tags": [],
 	"description": "",
-	"content": "There are many types of translations.\nHere is a draft example.\n"
-},
-{
-	"uri": "/one/kinds-of-liturgical-texts/liturgical-roles/bishops/",
-	"title": "3.1.1 Bishops",
-	"tags": [],
-	"description": "",
-	"content": "Lorem Ipsum.\n"
+	"content": "Chapter 2 Types of Translation There are many types of translations.\nHere is a draft example.\n"
 },
 {
 	"uri": "/one/kinds-of-liturgical-texts/liturgical-roles/",
-	"title": "3.1. Liturgical Roles",
+	"title": "A. Liturgical Roles",
 	"tags": [],
 	"description": "",
 	"content": " Bishops Priests Deacons People  "
 },
 {
 	"uri": "/one/kinds-of-liturgical-texts/",
-	"title": "3.Kinds of Liturgical Texts",
+	"title": "Kinds of Liturgical Texts",
 	"tags": [],
 	"description": "",
-	"content": " Liturgical Roles Delivery of Texts Rubrics  "
+	"content": "Chapter 3 Kinds of Liturgical Texts  Liturgical Roles Delivery of Texts Rubrics  "
+},
+{
+	"uri": "/one/some-english-translations-of-liturgical-texts/",
+	"title": "Some English Translations of Liturgical Texts",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 4 Some English Translations of Liturgical Texts Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/kinds-of-liturgical-texts/delivery-of-texts/",
+	"title": "B. Delivery of Texts",
+	"tags": [],
+	"description": "",
+	"content": "  Secret Reading\n  Reading Aloud\n  Intoning\n  Chanting/ Singing\n  "
+},
+{
+	"uri": "/one/kinds-of-liturgical-texts/liturgical-roles/bishops/",
+	"title": "i. Bishops",
+	"tags": [],
+	"description": "",
+	"content": " Dialogues Prayers Exclamations  "
+},
+{
+	"uri": "/one/how-to-translate-idioms/",
+	"title": "How to Translate Idioms",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 5 How to Translate Idioms Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/some-english-translations-of-liturgical-texts/some-english-translations-of-the-bible/",
+	"title": "A. Some English Translations of the Bible",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/kinds-of-liturgical-texts/delivery-of-texts/secret-reading/",
+	"title": "i. Secret Reading",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum.\n"
 },
 {
 	"uri": "/one/kinds-of-liturgical-texts/liturgical-roles/priests/",
-	"title": "3.1.2 Priests",
+	"title": "ii. Priests",
+	"tags": [],
+	"description": "",
+	"content": " Dialogues Prayers Litanies (Ektenias) Exclamations Gospel Readings  "
+},
+{
+	"uri": "/one/the-qualities-of-a-good-translation/",
+	"title": "The Qualities of a Good Translation",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 6 The Qualities of a Good Translation Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/kinds-of-liturgical-texts/delivery-of-texts/reading-aloud/",
+	"title": "ii. Reading Aloud",
 	"tags": [],
 	"description": "",
 	"content": "Lorem Ipsum.\n"
 },
 {
 	"uri": "/one/kinds-of-liturgical-texts/liturgical-roles/deacons/",
-	"title": "3.1.3 Deacons",
+	"title": "iii. Deacons",
+	"tags": [],
+	"description": "",
+	"content": " Dialogues Litanies (Ektenias) Exclamations Gospel Readings  "
+},
+{
+	"uri": "/one/two-steps-in-translating/",
+	"title": "Two Steps in Translating",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 7 Two Steps in Translating Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/kinds-of-liturgical-texts/delivery-of-texts/intoning/",
+	"title": "iii. Intoning",
 	"tags": [],
 	"description": "",
 	"content": "Lorem Ipsum.\n"
 },
 {
 	"uri": "/one/kinds-of-liturgical-texts/liturgical-roles/people/",
-	"title": "3.1.4 People",
+	"title": "iv. People",
 	"tags": [],
 	"description": "",
-	"content": "1.Synaxaria\n2.Hymns\n2.1 Hymns with Multiple Musical Settings 2.2 Idiomela 2.3 Automela 3.Prayers 4.Scripture "
+	"content": "1.Synaxaria\n2.Hymns\n  Hymns with Multiple Musical Settings\n  Idiomela\n  Automela\n  3.Prayers\n4.Scripture\n"
+},
+{
+	"uri": "/one/how-to-translate-unknown-ideas/",
+	"title": "How to Translate Unknown Ideas",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 8 How to Translate Unknown Ideas Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/kinds-of-liturgical-texts/delivery-of-texts/chanting/",
+	"title": "iv. Chanting/ Singing",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/how-to-study-the-meaning-of-a-word/",
+	"title": "How to Study the Meaning of a Word",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 9 How to Study the Meaning of a Word   Meanings that do not match\n  Words that have different senses\n  Re-expressing the meaning of a word\n  A method for comparing the meanings of words\n  Words that go together\n  Checking the natural order of words\n  "
+},
+{
+	"uri": "/one/how-to-translate-special-terms/",
+	"title": "How to Translate Special Terms",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 10 How to Translate Special Terms  Example Two Kinds of Special Terms Special Words that have One Sense How to Translate Special Terms Comparing Words with Similar Meanings Special Words that Have More than One Sense  "
+},
+{
+	"uri": "/one/how-to-study-the-meaning-of-a-word/meanings-that-do-not-match/",
+	"title": "A. Meanings That Do Not Match",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/how-to-translate-special-terms/example/",
+	"title": "A. Example",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/how-to-study-the-meaning-of-a-word/words-that-have-different-senses/",
+	"title": "B. Words That Have Different Senses",
+	"tags": [],
+	"description": "",
+	"content": "EXERCISE 1\nEXERCISE 2\nEXERCISE 3\n For each use of the following examples, check carefully the actual meaning of the word that is underlined. Use a good English dictionary for this purpose. How would you translate each of the underlined words into your own language?\n   (a) Priest\u0026rsquo;s Service Book Page 1 The Order of the Sacrament of Holy Baptism\n  "
+},
+{
+	"uri": "/one/how-to-translate-special-terms/two-kinds-of-special-terms/",
+	"title": "B. Two Kinds of Special Terms",
+	"tags": [],
+	"description": "",
+	"content": "There are two kinds of SPECIAL TERMS:\n (1) Those words that (with very few exceptions) have the same meaning in every context in which they occur. These are especially common in rubrics (liturgical instructions). Examples are: bishop, priest, deacon, catechumen, sacrament. These are also known as KEY TERMS.\n  (2) Words that have several different senses according to the context in which they occur. Examples are: _______ . Such words may need to be translated in different ways in different contexts, in order to give the correct sense in each context.\n "
+},
+{
+	"uri": "/one/how-to-study-the-meaning-of-a-word/re-expressing-the-meaning-of-a-word/",
+	"title": "C. Re-Expressing the Meaning of a Word",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/one/how-to-translate-special-terms/special-words-that-have-one-sense/",
+	"title": "C. Special Words That Have One Sense",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/how-to-study-the-meaning-of-a-word/a-method-for-comparing-the-meaning-of-words/",
+	"title": "D. A Method for Comparing the Meaning of Words",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/how-to-translate-special-terms/how-to-translate-special-terms/",
+	"title": "D. How to Translate Special Terms",
+	"tags": [],
+	"description": "",
+	"content": "STEP 1. First STUDY the meaning of the original term.\nSTEP 2. COMPARE the term with other terms that have similar meanings.\nSTEP 3. THINK about possible solutions for re-expressing the idea and tentatively CHOOSE the most appropriate.\nSTEP 4. CHECK existing service books, and Scripture, in your language to see how these terms have been translated in the past.\n For example, the Greek word διάκονος diakonos means \u0026ldquo;servant.\u0026rdquo; However, English Orthodox service books consistently translate διάκονος as \u0026ldquo;deacon\u0026rdquo; when referring to the ordained ministry of the deacon. If service books (or the New Testament) in your language already have a standard word for \u0026ldquo;deacon,\u0026rdquo; you should probably use this word rather than using your language\u0026rsquo;s word for \u0026ldquo;servant.\u0026rdquo;\n  In Kiswahili, for example, the word for \u0026ldquo;servant\u0026rdquo; is mhudumu \u0026lsquo;one who serves,\u0026rsquo; but service books do not use this word for deacons. Instead, they use the word shemasi, which comes from the Arabic word شماس shmas which means \u0026ldquo;servant.\u0026rdquo; In Arabic Orthodox texts, شماس shmas is always used to refer to a deacon.\n STEP 5. CHECK to see if your Bishop has instructions about how this term is to be translated.\nSTEP 6. After making a tentative decision, TEST the term you have tentatively chosen by using it in your translation.\n EXERCISE 1\n  For each of the words listed below, make a study of the meaning of that word in liturgical service books. To make this study, use\n   (1)\n    (2)\n    (3)\n   For each word, make a short list of the facts about the meaning of the word which you feel are most important to consider when translating. Words to study:\n   (a) sacrament/ mystery (μυστήριον mysterion)\n    (b)\n    (c)\n    (d)\n  "
+},
+{
+	"uri": "/one/how-to-study-the-meaning-of-a-word/words-that-go-together/",
+	"title": "E. Words That Go Together",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/how-to-translate-special-terms/comparing-words-with-similar-meanings/",
+	"title": "E. Comparing Words With Similar Meanings",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/how-to-study-the-meaning-of-a-word/checking-the-natural-order-of-words/",
+	"title": "F. Checking the Natural Order of Words",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/how-to-translate-special-terms/special-words-that-have-more-than-one-sense/",
+	"title": "F. Special Words That Have More Than One Sense",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum.\n"
 },
 {
 	"uri": "/",
