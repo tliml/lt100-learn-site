@@ -28,6 +28,34 @@
 	"content": "PART ONE TRANSLATION PRINCIPLES, PROBLEMS, AND PRACTICE Lorem Ipsum.\n"
 },
 {
+	"uri": "/two/",
+	"title": "PART TWO",
+	"tags": [],
+	"description": "",
+	"content": "PART TWO NOTES FOR DISCUSSION SESSIONS ON PLANNING AND ORGANISING A LITURGICAL TRANSLATION PROJECT Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/discovering-the-meaning-2-of-phrases/examples-of-of-phrases-in-english/",
+	"title": "A. Examples of &#39;of&#39; Phrases in English",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/a-natural-translation/a-metered-translation/",
+	"title": "A. A Metered Translation",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/how-to-study-your-own-culture/how-to-study-literature-in-your-language/",
+	"title": "A. How to Study Literature in Your Language",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum.\n"
+},
+{
 	"uri": "/one/what-is-translation/",
 	"title": "What is Translation?",
 	"tags": [],
@@ -35,11 +63,67 @@
 	"content": "Chapter 1 What is Translation? Lorem Ipsum.\n"
 },
 {
+	"uri": "/three/",
+	"title": "PART THREE",
+	"tags": [],
+	"description": "",
+	"content": "PART THREE CHECK YOURSELF ON YOUR KNOWLEDGE OF HISTORICAL BACKGROUND Lorem Ipsum.\n"
+},
+{
+	"uri": "/two/the-translation-team/",
+	"title": "The Translation Team",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 1 The Translation Team Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/discovering-the-meaning-2-of-phrases/different-relationships/",
+	"title": "B. Different Relationships",
+	"tags": [],
+	"description": "",
+	"content": "EXAMPLES\n Priest\u0026rsquo;s Service Book Page 1 the making of a catechumen\n\u0026ndash;\u0026gt; (someone) makes a catechumen Priest\u0026rsquo;s Service Book Page 1 the order of the sacrament\n\u0026ndash;\u0026gt; the way (someone) orders the sacrament    Priest\u0026rsquo;s Service Book Page 1 the sacrament of holy baptism\n\u0026ndash;\u0026gt; the sacrament which is holy baptism     EXERCISE 1\n EXERCISE 2\n"
+},
+{
+	"uri": "/one/how-to-study-your-own-culture/how-to-study-songs-in-your-language/",
+	"title": "B. How to Study Songs in Your Language",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum.\n"
+},
+{
 	"uri": "/one/types-of-translation/",
 	"title": "Types of Translation",
 	"tags": [],
 	"description": "",
 	"content": "Chapter 2 Types of Translation There are many types of translations.\nHere is a draft example.\n"
+},
+{
+	"uri": "/four/",
+	"title": "PART FOUR",
+	"tags": [],
+	"description": "",
+	"content": "PART FOUR PRINCIPLES OF GOOD SPELLING Students\u0026rsquo; Working Sheets.\n"
+},
+{
+	"uri": "/two/other-aspects-of-planning-a-liturgical-translation-project/",
+	"title": "Other Aspects of Planning a Liturgical Translation Project",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 2 Other Aspects of Planning a Liturgical Translation Project Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/discovering-the-meaning-2-of-phrases/the-importance-of-context/",
+	"title": "C. The Importance of Context",
+	"tags": [],
+	"description": "",
+	"content": "EXAMPLE 1 EXAMPLE 2 EXERCISE 3\n"
+},
+{
+	"uri": "/one/how-to-study-your-own-culture/how-to-study-poetry-in-your-language/",
+	"title": "C. How to Study Poetry in Your Language",
+	"tags": [],
+	"description": "",
+	"content": "Lorem Ipsum.\n"
 },
 {
 	"uri": "/one/kinds-of-liturgical-texts/liturgical-roles/",
@@ -54,6 +138,27 @@
 	"tags": [],
 	"description": "",
 	"content": "Chapter 3 Kinds of Liturgical Texts  Liturgical Roles Delivery of Texts Rubrics  "
+},
+{
+	"uri": "/five/",
+	"title": "PART FIVE",
+	"tags": [],
+	"description": "",
+	"content": "PART FIVE WRITING PRACTICE Students\u0026rsquo; Working Sheets.\n"
+},
+{
+	"uri": "/two/qualifications-of-a-liturgical-translator/",
+	"title": "Qualifications of a Liturgical Translator",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 3 Qualifications of a Liturgical Translator Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/discovering-the-meaning-2-of-phrases/translating-of-phrases/",
+	"title": "D. Translating &#39;of&#39; Phrases",
+	"tags": [],
+	"description": "",
+	"content": "EXERCISE 4\nEXERCISE 5\nEXERCISE 6\nEXERCISE 7\nEXERCISE 8\nEXERCISE 9\nEXERCISE 10\n"
 },
 {
 	"uri": "/one/some-english-translations-of-liturgical-texts/",
@@ -75,6 +180,20 @@
 	"tags": [],
 	"description": "",
 	"content": " Dialogues Prayers Exclamations  "
+},
+{
+	"uri": "/six/",
+	"title": "PART SIX",
+	"tags": [],
+	"description": "",
+	"content": "PART SIX DISCOVERING THE GRAMMAR OF YOUR LANGUAGE Students\u0026rsquo; Working Sheets.\n"
+},
+{
+	"uri": "/two/stages-of-a-liturgical-translation-project/",
+	"title": "Stages of a Liturgical Translation Project",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 4 Stages of a Liturgical Translation Project Lorem Ipsum.\n"
 },
 {
 	"uri": "/one/how-to-translate-idioms/",
@@ -105,6 +224,20 @@
 	"content": " Dialogues Prayers Litanies (Ektenias) Exclamations Gospel Readings  "
 },
 {
+	"uri": "/seven/",
+	"title": "PART SEVEN",
+	"tags": [],
+	"description": "",
+	"content": "PART SEVEN REVIEW QUESTIONNAIRES Review questions on the following:\n Bible Translation  Liturgical Translation   Translating the Word of God  Translating the Sacred Hymns   The Theory and Practice of Translation  "
+},
+{
+	"uri": "/two/what-can-we-do-to-encourage-the-use-of-liturgical-translations/",
+	"title": "What Can We Do to Encourage the Use of Liturgical Translations",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 5 What can we do to Encourage the Use of Liturgical Translations? Lorem Ipsum.\n"
+},
+{
 	"uri": "/one/the-qualities-of-a-good-translation/",
 	"title": "The Qualities of a Good Translation",
 	"tags": [],
@@ -124,6 +257,13 @@
 	"tags": [],
 	"description": "",
 	"content": " Dialogues Litanies (Ektenias) Exclamations Gospel Readings  "
+},
+{
+	"uri": "/eight/",
+	"title": "PART EIGHT",
+	"tags": [],
+	"description": "",
+	"content": "PART EIGHT BOOKS FOR TRANSLATORS A. Reference Books for Translators\nB. Further Reading on Translation Principles\n"
 },
 {
 	"uri": "/one/two-steps-in-translating/",
@@ -182,6 +322,13 @@
 	"content": "Lorem Ipsum.\n"
 },
 {
+	"uri": "/one/how-to-study-your-own-culture/",
+	"title": "How to Study Your Own Culture",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 11 How to Study Your Own Culture Lorem Ipsum.\n"
+},
+{
 	"uri": "/one/how-to-translate-special-terms/example/",
 	"title": "A. Example",
 	"tags": [],
@@ -194,6 +341,13 @@
 	"tags": [],
 	"description": "",
 	"content": "EXERCISE 1\nEXERCISE 2\nEXERCISE 3\n For each use of the following examples, check carefully the actual meaning of the word that is underlined. Use a good English dictionary for this purpose. How would you translate each of the underlined words into your own language?\n   (a) Priest\u0026rsquo;s Service Book Page 1 The Order of the Sacrament of Holy Baptism\n  "
+},
+{
+	"uri": "/one/towards-meaningful-translation/",
+	"title": "Towards Meaningful Translation",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 12 Towards Meaningful Translation Lorem Ipsum.\n"
 },
 {
 	"uri": "/one/how-to-translate-special-terms/two-kinds-of-special-terms/",
@@ -210,6 +364,13 @@
 	"content": ""
 },
 {
+	"uri": "/one/things-that-hinder-a-message-from-being-understood/",
+	"title": "Things That Hinder a Message From Being Understood",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 13 Things that Hinder a Message from Being Understood Lorem Ipsum.\n"
+},
+{
 	"uri": "/one/how-to-translate-special-terms/special-words-that-have-one-sense/",
 	"title": "C. Special Words That Have One Sense",
 	"tags": [],
@@ -222,6 +383,13 @@
 	"tags": [],
 	"description": "",
 	"content": "Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/more-about-cross-cultural-differences/",
+	"title": "More About Cross Cultural Differences",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 14 More About Cross-Cultural Differences Lorem Ipsum.\n"
 },
 {
 	"uri": "/one/how-to-translate-special-terms/how-to-translate-special-terms/",
@@ -238,6 +406,13 @@
 	"content": "Lorem Ipsum.\n"
 },
 {
+	"uri": "/one/further-exercises-on-meaning-based-translation/",
+	"title": "Further Exercises on Meaning Based Translation",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 15 Further Exercises on Meaning Based Translation Lorem Ipsum.\n"
+},
+{
 	"uri": "/one/how-to-translate-special-terms/comparing-words-with-similar-meanings/",
 	"title": "E. Comparing Words With Similar Meanings",
 	"tags": [],
@@ -252,11 +427,158 @@
 	"content": "Lorem Ipsum.\n"
 },
 {
+	"uri": "/one/finding-the-facts/",
+	"title": "Finding the Facts",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 16 Finding the Facts Lorem Ipsum.\n"
+},
+{
 	"uri": "/one/how-to-translate-special-terms/special-words-that-have-more-than-one-sense/",
 	"title": "F. Special Words That Have More Than One Sense",
 	"tags": [],
 	"description": "",
 	"content": "Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/ways-of-providing-background-information/",
+	"title": "Ways of Providing Background Information",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 17 Ways of Providing Background Information Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/a-natural-translation/",
+	"title": "A Natural Translation",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 18 A Natural Translation A. A Metered Translation\n"
+},
+{
+	"uri": "/one/discovering-the-meaning-1-event-ideas/",
+	"title": "Discovering the Meaning 1 Event Ideas",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 19 Discovering the Meaning 1 \u0026ndash; Event Ideas Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/discovering-the-meaning-2-of-phrases/",
+	"title": "Discovering the Meaning 2-- &#39;of&#39; Phrases",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 20 Discovering the Meaning 2 \u0026ndash; \u0026ldquo;Of\u0026rdquo; Phrases Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/discovering-the-meaning-3-active-and-passive/",
+	"title": "Discovering the Meaning 3-- Active and Passive",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 21 Discovering the Meaning 3\u0026ndash; Active and Passive Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/discovering-the-meaning-4-short-cuts-ellipsis/",
+	"title": "Discovering the Meaning 4-- Short Cuts (Ellipsis)",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 22 Discovering the Meaning 4\u0026ndash; Short Cuts (Ellipsis) Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/discovering-the-meaning-5-complex-passages/",
+	"title": "Discovering the Meaning 5-- Complex Passages",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 23 Discovering the Meaning 5\u0026ndash; Complex Passages Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/discovering-the-meaning-6-order-of-events/",
+	"title": "Discovering the Meaning 6-- Order of Events",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 24 Discovering the Meaning 6\u0026ndash; Order of Events Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/discovering-the-meaning-7-long-or-short-sentences/",
+	"title": "Discovering the Meaning 7-- Long or Short Sentences",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 25 Discovering the Meaning 7\u0026ndash; Long or Short Sentences Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/figures-of-speech-comparisons/",
+	"title": "Figures of Speech-- Comparisons",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 26 Figures of Speech\u0026ndash; Comparisons Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/other-figures-of-speech/",
+	"title": "Other Figures of Speech",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 27 Other Figures of Speech Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/rhetorical-questions/",
+	"title": "Rhetorical Questions",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 28 Rhetorical Questions Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/making-a-first-draft-translation/",
+	"title": "Making a First Draft Translation",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 29 Making a First Draft Translation Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/how-to-check-your-translation/",
+	"title": "How to Check Your Translation",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 30 How to Check Your Translation Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/ten-ways-to-check-a-translation/",
+	"title": "Ten Ways to Check a Translation",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 31 Ten Ways to Check a Translation Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/how-to-make-a-back-translation/",
+	"title": "How to Make a Back-Translation",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 32 How to Make a Back-Translation Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/section-headings/",
+	"title": "Section Headings",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 33 Section Headings Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/pronoun-reference/",
+	"title": "Pronoun Reference",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 34 Pronoun Reference Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/how-to-discover-the-grammar-of-your-language/",
+	"title": "How to Discover the Grammar of Your Language",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 35 How to Discover the Grammar of Your Language Lorem Ipsum.\n"
+},
+{
+	"uri": "/one/translation-problems-a-review/",
+	"title": "Translation Problems-- A Review",
+	"tags": [],
+	"description": "",
+	"content": "Chapter 36 Translation Problems\u0026ndash; A Review Lorem Ipsum.\n"
 },
 {
 	"uri": "/",
